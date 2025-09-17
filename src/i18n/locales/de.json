@@ -1,0 +1,29 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "settings": "Einstellungen",
+    "profile": "Profil",
+    "logout": "Abmelden",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "name": "Name"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "tasks": "Aufgaben",
+    "tribes": "Stämme",
+    "achievements": "Erfolge",
+    "analytics": "Analysen",
+    "pricing": "Preise"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "logout": "Déconnexion",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "name": "Nom"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "tasks": "Tâches",
+    "tribes": "Tribus",
+    "achievements": "Réalisations",
+    "analytics": "Analyses",
+    "pricing": "Tarifs"
+  }
+}

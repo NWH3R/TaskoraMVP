@@ -1,0 +1,74 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "tasks": "Tasks",
+    "tribes": "Tribes",
+    "achievements": "Achievements",
+    "analytics": "Analytics",
+    "pricing": "Pricing"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "create": "Create Task",
+    "urgent_important": "Urgent & Important",
+    "not_urgent_important": "Not Urgent & Important",
+    "urgent_not_important": "Urgent & Not Important",
+    "not_urgent_not_important": "Not Urgent & Not Important",
+    "status": {
+      "todo": "To Do",
+      "in_progress": "In Progress",
+      "completed": "Completed"
+    },
+    "priority": "Priority",
+    "due_date": "Due Date",
+    "description": "Description",
+    "assign_to": "Assign To"
+  },
+  "tribes": {
+    "title": "Tribes",
+    "create": "Create Tribe",
+    "join": "Join Tribe",
+    "members": "Members",
+    "owner": "Owner",
+    "admin": "Admin",
+    "member": "Member"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "earned": "Earned",
+    "points": "Points",
+    "categories": {
+      "tasks": "Tasks",
+      "collaboration": "Collaboration",
+      "productivity": "Productivity",
+      "social": "Social"
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "current_plan": "Current Plan",
+    "upgrade": "Upgrade",
+    "features": "Features"
+  }
+}
