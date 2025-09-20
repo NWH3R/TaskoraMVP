@@ -16,7 +16,7 @@ export const DemoLogin: React.FC<DemoLoginProps> = ({ onSuccess }) => {
   const handleDemoLogin = async () => {
     setLoading(true);
     try {
-      await signIn('demo@taskora.eu', 'demo123456');
+      await signIn('demo@taskora.eu', 'demo1234');
       toast.success('Welcome to the Taskora demo!');
       onSuccess?.();
     } catch (error) {
