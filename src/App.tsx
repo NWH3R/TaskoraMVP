@@ -3,8 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { Toaster } from 'react-hot-toast';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
 import { LandingPage } from './pages/LandingPage';
-import { LoginPage } from './pages/LoginPage';
-import { SignupPage } from './pages/SignupPage';
+import { AuthPage } from './pages/AuthPage';
 import { DashboardPage } from './pages/DashboardPage';
 import { TasksPage } from './pages/TasksPage';
 import { TribesPage } from './pages/TribesPage';
@@ -53,7 +52,7 @@ function App() {
               path="/login"
               element={
                 <PublicRoute>
-                  <LoginPage />
+                  <AuthPage />
                 </PublicRoute>
               }
             />
@@ -61,7 +60,7 @@ function App() {
               path="/signup"
               element={
                 <PublicRoute>
-                  <SignupPage />
+                  <AuthPage />
                 </PublicRoute>
               }
             />
